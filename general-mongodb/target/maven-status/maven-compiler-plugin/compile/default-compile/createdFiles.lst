@@ -1,0 +1,7 @@
+com\easyway\mongodb\dao\DAO.class
+com\easyway\mongodb\model\Hotel.class
+com\easyway\mongodb\app\HotelApp.class
+com\easyway\mongodb\dao\HotelDAO.class
+com\easyway\mongodb\QueryApp.class
+com\easyway\mongodb\ext\ReflectUtils.class
+com\easyway\mongodb\dao\BasicDAO.class
